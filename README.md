@@ -22,12 +22,12 @@ Este projeto consiste em um **dashboard interativo criado no Microsoft Excel**, 
 ## 📸 Preview do Dashboard
 
 ### 🎯 Visão Geral
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagensProjetoExcel/dashboard.png)
 
 ### 🔍 Tabela Dinâmica
-![Tabela Dinâmica](imagens/tabela-dinamica.png)
+![Tabela Dinâmica](imagensProjetoExcel/tabela-dinamica.png)
 
 ### 📋 Dados Originais
-![Dados](imagens/dados-origem.png)
+![Dados](imagensProjetoExcel/dados-origem.png)
 
 
